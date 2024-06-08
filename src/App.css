@@ -1,0 +1,59 @@
+body{
+  text-transform: capitalize;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+.App {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 70px;
+}
+.user-card{
+  border: 1px solid black;
+  width: 400px;
+  height: 670px;
+}
+.pic{
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  
+}
+.button1{
+  padding: 10px 20px;
+  margin-left: 10px;
+  border: 1px solid #fff;
+  background-color: #081833;
+  color: #fff;
+}
+.button2{
+  padding: 10px 20px;
+  margin-left: 10px;
+  border: 1px solid darkorange;
+}
+.orange{
+  background-color: darkorange;
+}
+.skills{
+  margin-top: 42px;
+  width: 100%;
+  height: 200px;
+  background-color: #081833;
+  text-align: start;
+  padding: 10px 0px;
+  color: #fff;
+}
+.css button{
+    margin-top: 10px;
+}
+.skills h2{
+  margin-left: 10px;
+}
+.skills hr{
+  width: 95%;
+}
